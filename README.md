@@ -2,7 +2,7 @@ To execute this code make sure to install all the needed dependencies and featur
 
 The console command that is use to crack this whole project up is 
 
-#Npm run dev.
+# Npm run dev.
 
 
 Enjoy!
